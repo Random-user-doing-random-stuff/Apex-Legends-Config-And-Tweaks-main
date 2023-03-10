@@ -14,7 +14,7 @@
 # Videoconfig
 6. Press Win+R while you are on your desktop.
 7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks).
-8. Move [videoconfig.txt](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/videoconfig.txt) in it.
+8. Move [videoconfig.txt](https://github.com/Random-user-doing-random-stuff/Apex-Legends-Config-And-Tweaks-main/blob/main/videoconfig.txt) in it.
 - For Origin users make sure your Origin Cloud Sync is disabled in the origin settings or Start the game with local saves.
 <p float="left">
   <img src="_Images/Origin%20Cloud%20Or%20Local%20Option.png" width="599" />
