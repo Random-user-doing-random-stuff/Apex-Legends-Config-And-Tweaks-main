@@ -21,7 +21,7 @@
 </p>
 
 # Forced Timer 
-9. Move [Memory Cleaner](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/tree/main/Memory%20Cleaner) to "C:\Program Files" or somewhere safe. 
+9. Move [Memory Cleaner](https://github.com/Random-user-doing-random-stuff/Apex-Legends-Config-And-Tweaks-main/tree/main/Memory%20Cleaner) to "C:\Program Files" or somewhere safe. 
 <p float="left">
   <img src="_Images/Timer%20Settings_1.PNG" width="182" />
   <img src="_Images/Timer%20Settings_2.PNG" width="384" /> 
@@ -34,7 +34,7 @@ Performance improvement from forced timer (Tested on 01-02-2023)
 # Consistant Frame Caping
 - Capping FPS is good or bad? and How to cap it? Answer : [Watch this video](https://youtu.be/N8ZUqT6Tfiw)
 10. In-game cap or RTSS but now RTSS is optional  
-- In-game cap, Change fps_max 0 (in [autoexec.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/autoexec.cfg) and [superglide2.cfg](https://github.com/Natram1zh/Apex-Autoexec-And-Tweaks-/blob/main/superglide2.cfg)) to your monitor hz because [here](https://youtu.be/_73gFgNrYVQ) (Lowest latency)
+- In-game cap, Change fps_max 0 (in [autoexec.cfg](https://github.com/Random-user-doing-random-stuff/Apex-Legends-Config-And-Tweaks-main/blob/main/autoexec.cfg) and [superglide2.cfg](https://github.com/Random-user-doing-random-stuff/Apex-Legends-Config-And-Tweaks-main/blob/main/superglide2.cfg) to your monitor hz because [here](https://youtu.be/_73gFgNrYVQ) (Lowest latency)
 - [RTSS](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html) for framerate caping and it is the best in frametime consistancy (Adds some latency but smoother than in-game cap)
 <p float="left">
   <img src="_Images/RTSS%20Settings_1.PNG" width="528" />
