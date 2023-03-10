@@ -81,4 +81,4 @@ BIOS
 - [Imribiy](https://docs.google.com/spreadsheets/d/1Jw3lfH0uRFXMxnFGdpNfRpVvrQN-MVwaE0HSKoj-Xag/edit) - Ryzen Grub by imribiy
 - [Revision](https://docs.google.com/document/d/1-izZaWrXaKIncYXDwmdY32YwdGCU5mDLJE6TW1Opnv8/edit#heading=h.f8qzobdxnx6w) - Tweaking guide for Intel
 
-# Not
+###### This was not made by me, i just downloaded from someone that deleted his account (I don't know who's the creator of this)
